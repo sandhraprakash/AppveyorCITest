@@ -188,3 +188,4 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 /AppveyorCITest/.vs/AppveyorCITest/v15/Server/sqlite3
+/AppveyorCITest/.vs/AppveyorCITest/DesignTimeBuild
